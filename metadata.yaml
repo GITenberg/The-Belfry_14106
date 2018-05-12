@@ -1,0 +1,31 @@
+_repo: The-Belfry_14106
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sinclair, May
+    alias: Sinclair, Mary Amelia St. Clair
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '3004'
+    url: http://www.gutenberg.org/2009/agents/3004
+    wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
+description: ''
+gutenberg_issued: '2004-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PR'
+title: The Belfry
+url: http://www.gutenberg.org/ebooks/14106
